@@ -1,0 +1,14 @@
+Here is the table for recording the results of your experiments.
+No.      Table size        Number of keys        Load factor        Number of collisions        The Longest list length
+1-          10                  10                    1                     2                              3
+2-          10                  100                   10                    10                             19
+3-          10                  500                   50                    10                             53
+4-          10                  1000                  100                   10                             95
+5-          20                  10                    0                     0                              1
+6-          20                  100                   5                     20                             5
+7-          20                  500                   25                    20                             31
+8-          20                  1000                  50                    20                             50
+9-          30                  10                    0                     1                              0
+10-         30                  100                   3                     24                             4
+11-         30                  500                   16                    30                             17
+12-         30                  1000                  33                    30                             46
