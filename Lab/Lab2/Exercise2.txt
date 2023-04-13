@@ -1,0 +1,10 @@
+in java all objects are stored in a heap and when we create a "new" object adn the Java Virtual machine cannot allocate
+the newly created object since there is no more memory available by the garbage collector.
+
+Garbage collector in java identifies the objects without any references and uses up that space.
+In this case due to the huge size the garbage collectors limit is exceeded.
+
+Citation:-
+1.  Understanding OutOfMemoryError Exception in Java - GeeksforGeeks. (2017).
+    Retrieved 26 September 2021,
+    from https://www.geeksforgeeks.org/understanding-outofmemoryerror-exception-java/
