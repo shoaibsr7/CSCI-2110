@@ -1,0 +1,82 @@
+1.
+Enter name or done:
+emboar
+Enter name or done:
+unfezant
+Enter name or done:
+palkia
+Enter name or done:
+serperior
+Enter name or done:
+samurott
+Enter name or done:
+done
+Height of the tree is: 2
+Number of nodes in the tree is: 5
+
+Inorder:		serperior	unfezant	samurott	emboar	palkia
+Preorder:		emboar	unfezant	serperior	samurott	palkia
+Postorder:		serperior	samurott	unfezant	palkia	emboar
+Level order:	emboar   unfezant   palkia   serperior   samurott
+
+And is it height balanced... Yes!
+
+2.
+Enter name or done:
+A
+Enter name or done:
+B
+Enter name or done:
+C
+Enter name or done:
+D
+Enter name or done:
+E
+Enter name or done:
+F
+Enter name or done:
+G
+Enter name or done:
+done
+Height of the tree is: 3
+Number of nodes in the tree is: 7
+
+Inorder:		D	B	F	E	G	A	C
+Preorder:		A	B	D	E	F	G	C
+Postorder:		D	F	G	E	B	C	A
+Level order:	A   B   C   D   E   F   G
+
+And is it height balanced... No.
+
+3.
+Enter name or done:
+Data
+Enter name or done:
+Structures
+Enter name or done:
+and
+Enter name or done:
+Algorithm
+Enter name or done:
+CSCI
+Enter name or done:
+2110
+Enter name or done:
+Fall
+Enter name or done:
+2021
+Enter name or done:
+-
+Enter name or done:
+2022
+Enter name or done:
+done
+Height of the tree is: 5
+Number of nodes in the tree is: 10
+
+Inorder:		Algorithm	Structures	2021	2110	2022	-	CSCI	Fall	Data	and
+Preorder:		Data	Structures	Algorithm	CSCI	2110	2021	-	2022	Fall	and
+Postorder:		Algorithm	2021	2022	-	2110	Fall	CSCI	Structures	and	Data
+Level order:	Data   Structures   and   Algorithm   CSCI   2110   Fall   2021   -   2022
+
+And is it height balanced... No.
