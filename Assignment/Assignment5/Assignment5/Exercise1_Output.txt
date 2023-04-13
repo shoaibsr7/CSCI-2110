@@ -1,0 +1,50 @@
+1.
+Enter the hash table size: 10
+Enter the number of keys to be hashed: 10
+
+ArrayList of Keys:	[3680, 5264, 4492, 659, 1293, 7463, 8174, 6892, 222, 9192]
+
+Hash Table created:
+0: 3680--> null
+1: null
+2: 9192--> 222--> 6892--> 4492--> null
+3: 7463--> 1293--> null
+4: 8174--> 5264--> null
+5: null
+6: null
+7: null
+8: null
+9: 659--> null
+
+Statistics:-
+Table size: 10
+Number of keys: 10
+Load factor: 1
+Number of collisions: 3
+Longest list: 1
+
+2.
+Enter the hash table size: 100
+Enter the number of keys to be hashed: 20
+
+ArrayList of Keys:	[6547, 6026, 9803, 2530, 7575, 3474, 7332, 100, 8287, 5234, 6799, 9930, 7824, 5315, 3369, 7022, 8552, 5904, 4149, 8156]
+
+Statistics:-
+Table size: 100
+Number of keys: 20
+Load factor: 0
+Number of collisions: 1
+Longest list: 1
+
+3.
+Enter the hash table size: 500
+Enter the number of keys to be hashed: 30
+
+ArrayList of Keys:	[7238, 750, 7232, 2701, 6590, 6607, 6045, 7937, 1633, 42, 4618, 4942, 4864, 4513, 3333, 5757, 6662, 3348, 123, 3835, 1242, 4249, 6768, 3811, 1994, 7605, 3186, 6733, 4171, 1514]
+
+Statistics:-
+Table size: 500
+Number of keys: 30
+Load factor: 0
+Number of collisions: 0
+Longest list: 0
