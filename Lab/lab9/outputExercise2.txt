@@ -1,0 +1,14 @@
+Enter the name of the text file:	names.txt
+List in the file stored in heap:
+[zinkun, singh, mohammed, sarahi, elsherbiny, lindsey, miah, caiden, felwah, christian]
+Here’s the list sorted in descending order:
+zinkun
+singh
+sarahi
+mohammed
+miah
+lindsey
+felwah
+elsherbiny
+christian
+caiden
