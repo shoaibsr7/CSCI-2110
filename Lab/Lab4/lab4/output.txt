@@ -1,0 +1,99 @@
+1.
+Enter Pokemon names, one on each line
+Enter quit to end
+Pikachu
+Charizard
+Mewtwo
+Emboar
+Bulbasaur
+Eevee
+Gengar
+Ditto
+Charmander
+quit
+Here is the linked list:
+Charmander-->Ditto-->Gengar-->Eevee-->Bulbasaur-->Emboar-->Mewtwo-->Charizard-->-->Pikachu-->
+
+Here is the linked list with even-numbered nodes:
+Charmander	Gengar	Bulbasaur	Mewtwo
+
+Here is the linked list with odd-numbered nodes:
+Ditto	Eevee	Emboar	Charizard	Pikachu
+
+Here is the reversed linked list:
+Pikachu-->-->Charizard-->Mewtwo-->Emboar-->Bulbasaur-->Eevee-->Gengar-->Ditto-->Charmander-->
+
+Here is the linked list with the middle node removed:
+Charmander-->Ditto-->Gengar-->Eevee-->Emboar-->Mewtwo-->Charizard-->-->Pikachu-->
+
+2.
+Enter Pokemon names, one on each line
+Enter quit to end
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+k
+r
+s
+t
+u
+v
+w
+x
+y
+z
+quit
+Here is the linked list:
+z-->y-->x-->w-->v-->u-->t-->s-->r-->k-->p-->o-->n-->m-->l-->k-->j-->i-->h-->g-->f-->e-->d-->c-->b-->-->a-->
+
+Here is the linked list with even-numbered nodes:
+z	x	v	t	r	p	n	l	j	h	f	d	b	a
+
+Here is the linked list with odd-numbered nodes:
+y	w	u	s	k	o	m	k	i	g	e	c
+
+Here is the reversed linked list:
+a-->-->b-->c-->d-->e-->f-->g-->h-->i-->j-->k-->l-->m-->n-->o-->p-->k-->r-->s-->t-->u-->v-->w-->x-->y-->z-->
+
+Here is the linked list with the middle node removed:
+z-->y-->x-->w-->v-->u-->t-->s-->r-->k-->p-->o-->n-->l-->k-->j-->i-->h-->g-->f-->e-->d-->c-->b-->-->a-->
+
+3.
+Enter Pokemon names, one on each line
+Enter quit to end
+Hi
+my
+name
+is
+Ahmed
+Rajgoli
+Shoaib
+Shakeel
+quit
+Here is the linked list:
+Shakeel-->Shoaib-->Rajgoli-->Ahmed-->is-->name-->my-->-->Hi-->
+
+Here is the linked list with even-numbered nodes:
+Shakeel	Rajgoli	is	my	Hi
+
+Here is the linked list with odd-numbered nodes:
+Shoaib	Ahmed	name
+
+Here is the reversed linked list:
+Hi-->-->my-->name-->is-->Ahmed-->Rajgoli-->Shoaib-->Shakeel-->
+
+Here is the linked list with the middle node removed:
+Shakeel-->Shoaib-->Rajgoli-->Ahmed-->name-->my-->-->Hi-->
