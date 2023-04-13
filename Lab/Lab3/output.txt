@@ -1,0 +1,41 @@
+Exerice 1:
+INPUT:
+23 400
+2.45 0.01
+somewhere elsewhere
+
+OUTPUT:
+Xpos: 23 Ypos: 400
+Xpos: 2.45 Ypos: 0.01
+Xpos: somewhere Ypos: elsewhere
+
+Exercise 2:
+INPUT:
+London Paris Halifax quit
+100 200 300 400 -1
+
+OUTPUT:
+String Stack Contents:
+Halifax
+Paris
+London
+Integer Stack Contents:
+400
+300
+200
+100
+
+Exercise 3:
+INPUT:
+Enter the filename to read from: C:\Users\SHOAIB SR\OneDrive - Dalhousie University\University\CSCI 2110\Coding\src\test.txt
+
+OUTPUT:
+Printing last name in reverse order:
+Crane
+Bones
+Pokemon
+Pokemon
+Dude
+Chaser
+Norris
+Dude
