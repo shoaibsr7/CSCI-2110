@@ -1,0 +1,49 @@
+INPUT:
+help
+print
+create
+3 3 fast flexible
+Jedi
+Red
+print
+move 7 7
+move 3 3 up 2
+exit
+
+OUTPUT:
+Enter a command (Type help for details):
+help
+Possible commands are as follows:
+create location [fast][flexible]: Creates a new piece.
+move location direction [spaces]: Moves a piece.
+print: Displays the board.
+help: Displays help.
+exit: Exits the program.
+Enter a command (Type help for details):
+print
+-              -              -              -              -              -              -              -
+-              -              -              -              -              -              -              -
+-              -              -              -              -              -              -              -
+-              -              -              -              -              -              -              -
+-              -              -              -              -              -              -              -
+-              -              -              -              -              -              -              -
+-              -              -              -              -              -              -              -
+-              -              -              -              -              -              -              -
+Enter a command (Type help for details):
+create
+3 3 fast flexible
+Give a name to your Fast Flexible piece: Jedi
+Enter a colour: Red
+New Fast Flexible Piece created.
+Enter a command (type help for details):
+print
+-              -              -              -              -              -              -              -
+-              -              -              -              -              -              -              -
+-              -              -              -              -              -              -              -
+-              -              -              JediRedFF      -              -              -              -
+-              -              -              -              -              -              -              -
+-              -              -              -              -              -              -              -
+-              -              -              -              -              -              -              -
+-              -              -              -              -              -              -              -
+Enter a command (type help for details):
+
