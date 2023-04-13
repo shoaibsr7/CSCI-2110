@@ -1,0 +1,27 @@
+Enter the first filename to read from:
+C:\Users\SHOAIB SR\OneDrive - Dalhousie University\University\CSCI 2110\Coding\src\Assignment\list1.txt
+Enter the second filename to read from:
+C:\Users\SHOAIB SR\OneDrive - Dalhousie University\University\CSCI 2110\Coding\src\Assignment\list2.txt
+
+[Amar, Boris, Charlie, Dan, Fujian, Inder, Travis]
+[Alex, Ben, Betty, Charlie, Dan, Pei, Travis, Zola, Zulu]
+
+Merged List:
+[Alex, Amar, Ben, Betty, Boris, Charlie, Dan, Fujian, Inder, Pei, Travis, Zola, Zulu]
+
+Difference List:
+[Amar, Boris, Fujian, Inder]
+
+Common List:
+[Charlie, Dan, Travis]
+
+Enter the name of the .txt file to write merge into: merged.txt
+
+Enter the name of the .txt file to write difference into: diff.txt
+
+Enter the name of the .txt file to write common into: common.txt
+
+The merge operations are complete and the results are in:
+merged.txt
+diff.txt
+common.txt
