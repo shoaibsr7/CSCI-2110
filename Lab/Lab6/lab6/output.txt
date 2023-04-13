@@ -1,0 +1,150 @@
+EXERCISE 1:
+first 10 factorials are:
+1
+2
+6
+24
+120
+720
+5040
+40320
+362880
+3628800
+
+Fibonacci numbers
+first 20 numbers in the Fibonacci series are:
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+55
+89
+144
+233
+377
+610
+987
+1597
+2584
+4181
+
+Power of a number
+Enter a positive integer x to the base n:
+2
+Enter another positive integer to be the exponent:
+3
+2 to the power of 3 is 8
+
+EXERCISE 2:
+Enter a number for countdown:
+10
+countDown(10) would print:
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+BlastOff!
+
+EXERCISE 3:
+EVEN:-
+Enter a number for countdown:
+8
+countDown(8) would print:
+8
+6
+4
+2
+BlastOff!
+
+ODD:-
+Enter a number for countdown:
+9
+countDown(9) would print:
+9
+7
+5
+3
+1
+BlastOff!
+
+EXERCISE 4:
+Enter a number n:
+2
+Enter another number m to find its multiples:
+10
+multiples(2, 10) would print:
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+
+EXERCISE 5:
+Enter a number to print vertically:
+123456
+writeVertical(123456) would return:
+1
+2
+3
+4
+5
+6
+
+EXERCISE 6:
+Enter a positive integer n as a parameter and calculate the sum of the squares of all digits 1 through n:
+4
+squares(4) would return:
+30
+
+EXERCISE 7:
+Enter an integer to specify the number of discs in the tower of Hanoi:
+8
+255
+The execution time for the solve method was: 1ms
+
+Enter an integer to specify the number of discs in the tower of Hanoi:
+12
+4095
+The execution time for the solve method was: 1ms
+
+Enter an integer to specify the number of discs in the tower of Hanoi:
+16
+65535
+The execution time for the solve method was: 1ms
+
+Enter an integer to specify the number of discs in the tower of Hanoi:
+20
+1048575
+The execution time for the solve method was: 6ms
+
+Enter an integer to specify the number of discs in the tower of Hanoi:
+24
+16777215
+The execution time for the solve method was: 57ms
+
+Enter an integer to specify the number of discs in the tower of Hanoi:
+28
+268435455
+The execution time for the solve method was: 608ms
+
+Enter an integer to specify the number of discs in the tower of Hanoi:
+32
+4294967295
+The execution time for the solve method was: 9863ms
