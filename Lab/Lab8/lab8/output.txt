@@ -1,0 +1,40 @@
+1.
+Enter int or '0':	1
+Enter int or '0':	2
+Enter int or '0':	3
+Enter int or '0':	4
+Enter int or '0':	5
+Enter int or '0':	6
+Enter int or '0':	0
+The max data value in the BST is: 6
+The min data value in the BST is: 1
+What key would you like to search for?	5
+key found.
+
+2.
+Enter int or '0':	98
+Enter int or '0':	76
+Enter int or '0':	54
+Enter int or '0':	32
+Enter int or '0':	12
+Enter int or '0':	98
+Duplicate key. Can't insert
+Enter int or '0':	12
+Duplicate key. Can't insert
+Enter int or '0':	0
+The max data value in the BST is: 98
+The min data value in the BST is: 12
+What key would you like to search for?	34
+Key not found.
+
+3.
+Enter int or '0':	29
+Enter int or '0':	1
+Enter int or '0':	76
+Enter int or '0':	3
+Enter int or '0':	90
+Enter int or '0':	0
+The max data value in the BST is: 90
+The min data value in the BST is: 1
+What key would you like to search for?	1
+key found.
