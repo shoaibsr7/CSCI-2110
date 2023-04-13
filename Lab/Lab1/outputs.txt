@@ -1,0 +1,68 @@
+EXERCISE 1 :-
+1. INPUT:
+    2
+    1.0 1.0 5.0 5.0
+    2.0 2.0 3.0 3.0
+
+    OUTPUT:
+    The first Rectangle's top corner is: 1.0, 1.0
+    It's width is: 5.0
+    It's height is: 5.0
+    The second Rectangle's top corner is: 2.0, 2.0
+    It's width is: 3.0
+    It's height is: 3.0
+    Contains method returns: true
+    Touches method returns: false
+
+2. INPUT:
+    2
+    1.0 1.0 5.0 5.0
+    2.0 2.0 4.0 4.0
+
+    OUTPUT:
+    The first Rectangle's top corner is: 1.0, 1.0
+    It's width is: 5.0
+    It's height is: 5.0
+    The second Rectangle's top corner is: 2.0, 2.0
+    It's width is: 4.0
+    It's height is: 4.0
+    Contains method returns: true
+    Touches method returns: true
+
+EXERCISE 2:-
+1. INPUT:
+    2
+    5.0 5.0 4.0
+    10.0 2.0 3.0
+
+    OUTPUT:
+    The first Circle's centre is: 5.0, 5.0
+    It's radius is: 4.0
+    The second Circle's top corner is: 10.0, 2.0
+    It's radius is: 3.0
+    The 'contains' method returns:false
+    The 'touches'' method returns:false
+
+2. INPUT:
+    2
+    4.0 2.0 1.0
+    2.0 2.0 1.0
+
+    OUTPUT:
+    The first Circle's centre is: 4.0, 2.0
+    It's radius is: 1.0
+    The second Circle's top corner is: 2.0, 2.0
+    It's radius is: 1.0
+    The 'contains' method returns:false
+    The 'touches' method returns:true
+
+EXERCISE 3:-
+1. INPUT:
+    5 1.0 2.5 3.0 4.0 5.0 6.0 7.0 8.0 9.0 10.0
+    8 0.2 10.0 0.3 2.0 1.0 1.0 0.0 1.0 20.0 2.0 8.5 8.0 4.6 3.2 4.0 4.0
+    0
+
+    OUTPUT:
+    Enter 5 points: The bounding rectangle's center (5.0,6.25), width 8.0, height 7.5
+    Enter 8 points: The bounding rectangle's center (10.0,5.5), width 20.0, height 9.0
+
