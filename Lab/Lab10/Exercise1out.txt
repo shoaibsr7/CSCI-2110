@@ -1,0 +1,87 @@
+List1:
+1.
+Enter how many items are in the list?
+14
+Are we sorting Strings or Integers?
+integers
+Enter values:-
+10
+20
+50
+-100
+88
+16
+22
+97
+5
+17
+268
+-192
+12
+37
+Do you want to sort Min or Max?
+min
+Sorting Complete. Total Swaps:	43
+-192 -100 5 10 12 16 17 20 22 37 50 88 97 268
+
+2.
+Enter how many items are in the list?
+14
+Are we sorting Strings or Integers?
+integers
+Enter values:-
+10
+20
+50
+-100
+88
+16
+22
+97
+5
+17
+268
+-192
+12
+37
+Do you want to sort Min or Max?
+max
+Sorting Complete. Total Swaps:	48
+268 97 88 50 37 22 20 17 16 12 10 5 -100 -192
+
+List2:
+1.
+Enter how many items are in the list?
+7
+Are we sorting Strings or Integers?
+strings
+Enter values:-
+Raspberry
+Chocolate
+Pineapple
+Cinnamon
+Coffee
+Blueberry
+Strawberry
+Do you want to sort Min or Max?
+min
+Sorting Complete. Total Swaps:	11
+Blueberry Chocolate Cinnamon Coffee Pineapple Raspberry
+
+2.
+Enter how many items are in the list?
+7
+Are we sorting Strings or Integers?
+strings
+Enter values:-
+Raspberry
+Chocolate
+Pineapple
+Cinnamon
+Coffee
+Blueberry
+Strawberry
+Do you want to sort Min or Max?
+max
+Sorting Complete. Total Swaps:	10
+Raspberry Pineapple Coffee Cinnamon Chocolate Blueberry
