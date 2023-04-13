@@ -1,0 +1,27 @@
+1.
+Login (username): rpokemon
+Password: drow456
+Welcome Rayquazza Pokemon
+
+2.
+Login (username): cdude
+Password: iamcool
+Password incorrect. Please make sure you are entering the correct Password.
+You have 2 more attempts.
+
+Login (username): hmm
+Password: incorrect
+Username incorrect. Please make sure you are entering the correct Username.
+You have 1 more attempts.
+
+Login (username): ahhh
+Password: igiveup
+Username incorrect. Please make sure you are entering the correct Username.
+You have 0 more attempts.
+
+Sorry. Incorrect login. Please contact the system administrator.
+
+3.
+Login (username): tchaser
+Password: xpxo567!
+Welcome Trend Chaser
